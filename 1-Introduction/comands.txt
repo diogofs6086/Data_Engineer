@@ -1,0 +1,12 @@
+sudo apt install python3-venv
+/Documents/PESSOAL/Data_Engineering/1-Introduction$ python3 -m venv .venv
+source .venv/bin/activate
+pip install requests
+pip install pandas
+pip install ipython
+mata o terminal
+shift+enter
+terminal
+source .venv/bin/activate
+ipython
+
